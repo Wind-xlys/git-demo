@@ -9,4 +9,4 @@ hello wind! hello git!
 hello wind! hello git!
 hello wind! hello git!
 hello wind! hello git!
-hello wind! hello git!
+hello wind! hello git! hot-fix test
